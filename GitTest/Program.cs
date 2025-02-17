@@ -1,4 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Test? Additional stuff");
-Console.WriteLine("Hello, Test? Additional stuff");
-Console.WriteLine("Hello, Test? Additional stuff");
+﻿void MyFirstMethod()
+{
+    Console.WriteLine("Hello");
+}
+
+void MySecondMethod()
+{
+    Console.WriteLine("Goodbye");
+}
+
+void MyFirdMethod()
+{
+    Console.WriteLine("Night");
+}
